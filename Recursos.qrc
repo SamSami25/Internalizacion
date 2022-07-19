@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/Imagenes/salario.png</file>
+        <file>Salarios_en_US.qm</file>
+        <file>Salarios_fr.qm</file>
+        <file>Salarios_pt.qm</file>
+        <file>Salarios_ru.qm</file>
+        <file>Recursos/Imagenes/Horas.png</file>
+        <file>Recursos/Imagenes/Jornada.png</file>
+        <file>Recursos/Imagenes/Matutina.png</file>
+        <file>Recursos/Imagenes/Nocturna.png</file>
+        <file>Recursos/Imagenes/Salir.png</file>
+        <file>Recursos/Imagenes/Universidad.png</file>
+        <file>Recursos/Imagenes/Vespertina.png</file>
+        <file>Recursos/Imagenes/idiomas.png</file>
+        <file>Recursos/Imagenes/Guardar.png</file>
+        <file>Recursos/Imagenes/Nuevo.png</file>
+        <file>Recursos/Imagenes/salida.png</file>
+    </qresource>
+</RCC>
